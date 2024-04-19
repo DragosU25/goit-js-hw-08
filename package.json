@@ -2,20 +2,20 @@
   "name": "team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dragosu25.github.io/team-project/",
+  "homepage": "https://your_username.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DragosU25/team-project.git"
+    "url": "https://github.com/DragosU25/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Dragos Ungureanu <ungureanud6@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DragosU25/team-project/issues"
+    "url": "https://github.com/DragosU25/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.22.0",
