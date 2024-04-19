@@ -2,27 +2,24 @@
   "name": "team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DragosU25.github.io/goit-js-hw-08/",
+  "homepage": "https://dragosu25.github.io/team-project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DragosU25/goit-js-hw-08.git"
+    "url": "git+https://github.com/DragosU25/team-project.git"
   },
   "keywords": [],
   "author": "Dragos Ungureanu <ungureanud6@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DragosU25/goit-js-hw-08/issues"
+    "url": "https://github.com/DragosU25/team-project/issues"
   },
   "dependencies": {
-    "@vimeo/player": "^2.22.0",
     "animate.css": "^4.1.1",
-    "lodash.throttle": "^4.1.1",
-    "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.14.3"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
